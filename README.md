@@ -23,8 +23,7 @@
 - PSPNet [[Paper]](https://arxiv.org/pdf/1612.01105.pdf)
 
 ## Human Pose Estimation
-- RMPE: Regional Multi-person Pose Estimation
-https://arxiv.org/abs/1612.00137v3 
+- RMPE: Regional Multi-person Pose Estimation[[PDF]](https://arxiv.org/abs/1612.00137v3)
 - DensePose: Dense Human Pose Estimation In The Wild [[PDF]](https://arxiv.org/abs/1802.00434)[[GitHub]](https://github.com/facebookresearch/DensePose)
 ## Face Detection
 - Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks
